@@ -1,0 +1,19 @@
+{
+	"accountName": "Chiranjeevi",
+	"AccountNo": 2569785469156,
+	"accountType": "savings",
+	"ifscCode": "INDB0005821",
+	"balance": 5000.0,
+	"address": {
+		"addressLine1": "1-Dasarinethamvillage,Kollagunta post",
+		"addressLine2": "Katrvatinagar mandal,Chittoor district",
+		"city": "Tirupathi",
+		"State": "Andhra Pradesh",
+		"Country": "India",
+		"PinCode": 517582
+	},
+	"nominee": [
+		"Subramanyam",
+		"Janaki"
+	]
+}

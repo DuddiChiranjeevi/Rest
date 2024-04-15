@@ -1,0 +1,18 @@
+{
+	"StudentId": 1234,
+	"studentName": "Chiranjeevi",
+	"fatherName": "Subramanyam",
+	"motherName": "Janaki",
+	"mobileNo": "9059798193",
+	"course": {
+		"Degree": "Bsc(Maths),Bsc(Statitics),Bsc(MPC)",
+		"Master Degeree": "Master of Business Administration,Master Of Computer applications",
+		"Phd": "Computer application"
+	},
+	"collage": [
+		"Seshachala Degeree colage",
+		"Vedavyasa Degeree collage",
+		"Himaja degeree collage",
+		"Ramana degeree collage"
+	]
+}
